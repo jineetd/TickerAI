@@ -1,0 +1,10 @@
+# Ollama Configuration (Optional - uses defaults if not set)
+OLLAMA_HOST=http://localhost:11434
+OLLAMA_MODEL=llama3.2
+
+# Alternative models you can use:
+# OLLAMA_MODEL=llama3.1
+# OLLAMA_MODEL=llama2
+# OLLAMA_MODEL=llama3.2:1b
+
+# Note: No API keys needed! Everything runs locally.
